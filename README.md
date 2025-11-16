@@ -1,0 +1,3 @@
+# Atlas Technical Assessment
+
+Initializing repository...
